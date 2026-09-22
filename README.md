@@ -1,2 +1,3 @@
 # prediccion-rotacion-empleados
 Predicción de rotación de empleados (Employee Churn) — Proyecto académico (Python)
+Análisis y modelado predictivo sobre dataset de RRHH (15.000 registros) para predecir la rotación de personal. Realicé limpieza y codificación de variables (One-Hot, codificación ordinal), reducción de dimensionalidad con PCA y análisis de correlación. Entrené y comparé 4 modelos de clasificación (Naive Bayes, LDA, QDA, SVM), evaluando con Accuracy, Precision y Recall. El modelo SVM (kernel RBF) obtuvo el mejor desempeño con 96.5% de accuracy y 93.8% de precisión, superando ampliamente a los modelos lineales/paramétricos.
